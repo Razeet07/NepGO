@@ -1,0 +1,15 @@
+[{
+    "name": "Samsung GalaxyS9",
+    "price": 99.99,
+    "description": "This is a sample product description here.",
+    "ratings": 4.5,
+    "images": [],
+      
+    "category": "Laptop",
+    "seller": "Sample Seller",
+    "stock": 10,
+    "numOfReview": 25,
+    "reviews": [],
+    "createdAt": "2023-08-24T12:00:00.000Z"
+        
+}]

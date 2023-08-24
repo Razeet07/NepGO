@@ -1,6 +1,5 @@
 const mongoose = require('mongoose');
 const dbConfig = require('../config/dbConfig.json')
-
 const connectDatabase = async()=>{
     try{
       console.log(`${dbConfig.MONGODB_DATABASE_NAME}/${dbConfig.MONGODB_DATABASE_NAME}`)
@@ -10,5 +9,4 @@ const connectDatabase = async()=>{
         console.log(err)
     }
 }
-
 module.exports = connectDatabase;
