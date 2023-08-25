@@ -12,4 +12,47 @@
     "reviews": [],
     "createdAt": "2023-08-24T12:00:00.000Z"
         
-}]
+},
+{
+    "name": "iPhone 13",
+    "price": 799.99,
+    "description": "The latest iPhone model with advanced features.",
+    "ratings": 4.8,
+    "images": [],
+    "category": "Mobile",
+    "seller": "TechEmpire",
+    "stock": 15,
+    "numOfReview": 50,
+    "reviews": [],
+    "createdAt": "2023-08-24T12:00:00.000Z"
+},
+{
+    "name": "Sony PlayStation 5",
+    "price": 499.99,
+    "description": "Next-gen gaming console with stunning graphics.",
+    "ratings": 4.7,
+    "images": [],
+    "category": "Console",
+    "seller": "GameHaven",
+    "stock": 5,
+    "numOfReview": 28,
+    "reviews": [],
+    "createdAt": "2023-08-24T12:00:00.000Z"
+},
+{
+    "name": "NVIDIA GeForce RTX 4080",
+    "price": 799.99,
+    "description": "Cutting-edge graphics card for gaming and content creation.",
+    "ratings": 4.9,
+    "images": [],
+    "category": "Graphics Card",
+    "seller": "TechPulse",
+    "stock": 6,
+    "numOfReview": 15,
+    "reviews": [],
+    "createdAt": "2023-08-24T12:00:00.000Z"
+}
+
+
+
+]
