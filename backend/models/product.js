@@ -74,7 +74,6 @@ const productSchema = new mongoose.Schema({
         maxlength: [5, 'procuct maxlength is only 5 characters'],
         default: 0
     },
-
     numOfReview:{
         type: Number,
         default: 0
