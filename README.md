@@ -5,7 +5,7 @@ Full Ecommerce website in MERN
 
 # About Us
 
-Welcome to [Your E-Commerce Website Name]!
+Welcome to NEPGo!
 
 ## Our Story
 
@@ -17,15 +17,15 @@ At NEPGO, our mission is clear: to connect people with products they'll love. We
 
 ## Features that Set Us Apart
 
-- **Smart Recommendations**: Our advanced recommendation engine analyzes your preferences and browsing history to suggest products that align with your taste.
+- **Smart Recommendations**
 
-- **Simplified Checkout**: We understand that time is valuable. Our one-click checkout process streamlines your purchase, getting your products to you faster.
+- **Simplified Checkout** 
 
-- **Secure Transactions**: Your security is paramount. We utilize state-of-the-art encryption to ensure that your payment information is always protected.
+- **Secure Transactions**
 
-- **24/7 Customer Support**: Got questions? Our round-the-clock customer support team is here to assist you, ensuring a smooth shopping journey.
+- **24/7 Customer Support**
 
-- **Wishlist and Favorites**: Keep track of products you love. Our wishlist feature lets you save items for future consideration.
+- **Wishlist and Favorites**
 - **Dynamic Add to cart features**:  
 
 ## Technology Stack
