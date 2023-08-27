@@ -5,17 +5,37 @@ class APIFeatures {
     }
 
     search() {
-        if (this.queryStr.keywords) {
-            const keywords = {
+        if (this.queryStr.keyword) {
+            const keyword = {
                 name: {
-                    $regex: this.queryStr.keywords,
+                    $regex: this.queryStr.keyword,
                     $options: 'i'
                 }
             };
-            this.query = this.query.find(keywords);
+            this.query = this.query.find(keyword);
         }
         return this;
     }
+    //filter functionality
+    filter() {
+        const queryCopy = { ... this.queryStr };
+
+        //Removing field form query 
+        const removeFields = ['keyword', 'limit', 'page',]
+
+        removeFields.forEach(el => delete queryCopy[el]);
+        console.log(queryCopy);
+        //Advanced filtering
+        let queryStr = JSON.stringify(queryCopy)
+        queryStr = queryStr.replace(/\b(gt|gte|lt|lte)\b/g, match =>`$${match}`)
+        console.log(queryStr);
+
+             
+        this.query = this.query.find(JSON.parse(queryStr));
+        return this;
+    }
+
+    //pagination functionality
 
     pagination(resPerPage) {
         const currentPage = Number(this.queryStr.page) || 1;
@@ -26,4 +46,4 @@ class APIFeatures {
     }
 }
 
-module.exports = APIFeatures ;
+module.exports = APIFeatures;

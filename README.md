@@ -18,15 +18,14 @@ At NEPGO, our mission is clear: to connect people with products they'll love. We
 
 - **Simplified Checkout**: We understand that time is valuable. Our one-click checkout process streamlines your purchase, getting your products to you faster.
 
-- **Virtual Try-On**: Experience our products from the comfort of your home using our virtual try-on feature, ensuring you make confident choices.
-
 - **Secure Transactions**: Your security is paramount. We utilize state-of-the-art encryption to ensure that your payment information is always protected.
 
 - **24/7 Customer Support**: Got questions? Our round-the-clock customer support team is here to assist you, ensuring a smooth shopping journey.
 
 - **Wishlist and Favorites**: Keep track of products you love. Our wishlist feature lets you save items for future consideration.
+- **Dynamic Add to cart features**:  
 
-## Our Technology Stack
+## Technology Stack
 
 We take pride in the technology that powers NEPGO. Our robust and scalable stack includes:
 
@@ -41,8 +40,6 @@ We take pride in the technology that powers NEPGO. Our robust and scalable stack
 
 
 ## Join Our Community
-
-At NEPGO, we're more than a shopping platform – we're a community. Connect with us on social media, join discussions, and be part of the NEPGO family.
 
 Thank you for choosing us for your online shopping needs. We look forward to serving you and enhancing your shopping journey.
 
