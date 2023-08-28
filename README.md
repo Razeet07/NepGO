@@ -49,7 +49,7 @@ Thank you for choosing us for your online shopping needs. We look forward to ser
 
 Happy Shopping!
 
-The NEPGO Team
+## The NEPGO Team
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
